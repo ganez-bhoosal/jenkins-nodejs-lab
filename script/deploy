@@ -1,4 +1,5 @@
 #!/bin/sh
+ehco "good morning"
 echo 'hello world'
 ssh app@ip-172-31-35-67 <<EOF
   cd ~/jenkins-nodejs-lab
