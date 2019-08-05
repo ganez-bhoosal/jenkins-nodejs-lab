@@ -1,5 +1,5 @@
 #!/bin/sh
-echo "good night"
+echo "Hello world"
 echo "good morningoog"
 ssh app@ip-3.89.222.30<<EOF
   cd ~/jenkins-nodejs-lab
