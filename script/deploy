@@ -1,5 +1,5 @@
 #!/bin/sh
-ehco "good morning"
+echo "good morning"
 echo 'hello world'
 echo 'hello'
 echo "binod bro"
