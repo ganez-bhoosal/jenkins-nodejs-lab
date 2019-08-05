@@ -1,6 +1,6 @@
 #!/bin/sh
 echo "good morning"
-ssh app@ip-http://3.89.222.30<<EOF
+ssh app@ip-3.89.222.30<<EOF
   cd ~/jenkins-nodejs-lab
   git pull
   npm install
