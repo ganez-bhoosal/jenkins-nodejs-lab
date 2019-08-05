@@ -3,6 +3,7 @@ echo "good morning"
 echo 'hello world'
 echo 'hello'
 echo "binod bro"
+echo "hhhh"
 ssh app@ip-3.89.222.30<<EOF
   cd ~/jenkins-nodejs-lab
   git pull
